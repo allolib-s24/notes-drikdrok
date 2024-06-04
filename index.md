@@ -3,6 +3,8 @@
 # MIDI 
 I created a small synthesia-like app that will read live MIDI input from a keyboard and display "floating notes" from what was played. The file is:
 * [MIDI_Notes](https://github.com/allolib-s24/notes-drikdrok/blob/main/MIDI_Notes.cpp)
+
+I also wrote up a small tutorial on how to get live MIDI input which you can find [here](https://github.com/allolib-s24/notes-drikdrok/blob/main/MIDI_Tutorial.md) (pull request still up)
   
 With this, I created 2 melodies. Both are from one of my favourite video games, *Heroes of Might and Magic 5*, composed by Paul Anthony Romero.
 Click either image to go to the youtube video to hear it!
